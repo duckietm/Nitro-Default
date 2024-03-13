@@ -11,7 +11,7 @@
 
 -   First you should open terminal and navigate to the folder where you want to clone Nitro
 -   Clone Nitro
-    -   `git clone https://git.krews.org/nitro/nitro-react.git`
+    -   `git clone https://github.com/duckietm/Nitro-Default.git`
 -   Install the dependencies
     -   `yarn install`
     -   This may take some time, please be patient
